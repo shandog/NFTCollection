@@ -1,6 +1,6 @@
 // Address of the Whitelist Contract that you deployed
-const WHITELIST_CONTRACT_ADDRESS = "0x741d71f91Fd73E1586150b63AA30cf84eE8Bd7E9";
+const WHITELIST_CONTRACT_ADDRESS = "0x1e5D1EE685a76d94b2a2faeC988103fF8b5D19F4";
 // URL to extract Metadata for a Crypto Dev NFT
-const METADATA_URL = "https://nft-collection-blond-one.vercel.app/api/";
+const METADATA_URL = "https://whitelist-dapp-gilt-three.vercel.app/api/";
 
 module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };
