@@ -1,4 +1,4 @@
-export const NFT_CONTRACT_ADDRESS = "0xA789B58473903b30c83797033FB1b7C4C28a06ff"
+export const NFT_CONTRACT_ADDRESS = "0x1c60e6aFE82A6015c88c29DFc526715134352713"
 export const abi = [
   {
     "inputs": [
@@ -581,4 +581,4 @@ export const abi = [
     "stateMutability": "payable",
     "type": "receive"
   }
-]
+];
